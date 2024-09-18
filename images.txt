@@ -1,1 +1,2 @@
 guacamole/guacd:latest
+guacamole/guacamole:latest
