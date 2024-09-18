@@ -1,2 +1,3 @@
 guacamole/guacd:latest
 guacamole/guacamole:latest
+mariadb:latest
