@@ -2,3 +2,4 @@ guacamole/guacd:latest
 guacamole/guacamole:latest
 mariadb:latest
 mysql:latest
+mysql:8.0.39
