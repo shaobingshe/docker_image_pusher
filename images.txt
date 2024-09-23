@@ -3,3 +3,4 @@ guacamole/guacamole:latest
 mariadb:latest
 mysql:latest
 mysql:8.0.39
+wordpress:6.6.2
