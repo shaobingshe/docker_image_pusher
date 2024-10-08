@@ -6,3 +6,4 @@ mysql:8.0.39
 wordpress:6.6.2
 nginx:1.27.1
 certbot/certbot:latest
+cp2k/cp2k:2024.3_openmpi_skylake-avx512_psmp
